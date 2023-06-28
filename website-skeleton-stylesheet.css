@@ -1,5 +1,5 @@
 p {
-    margin: 25px 50px 75px 100px;
+    margin: 2rem 2rem 2rem 2rem;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
 
@@ -16,6 +16,12 @@ p {
       text-align: center;
       font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
       font-size: 20px;
+  }
+
+  .icon-block{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
   }
 
   .clicky-icons{
