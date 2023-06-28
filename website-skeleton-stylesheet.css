@@ -20,6 +20,7 @@ p {
 
   .icon-block{
     display: flex;
+    align-self: center;
     justify-content: space-between;
     width: 20%;
   }
