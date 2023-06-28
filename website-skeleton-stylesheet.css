@@ -20,6 +20,8 @@ p {
 
   .clicky-icons{
     display: block;
-    margin-right: auto;
-    margin-left: auto;
+  }
+
+  .clicky-icons:hover{
+    color: #996699;
   }
