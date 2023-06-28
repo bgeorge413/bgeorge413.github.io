@@ -24,7 +24,7 @@ p {
   }
 
   .clicky-icons{
-    display: inline-block;
+    display: block;
   }
 
   .clicky-icons:hover{
