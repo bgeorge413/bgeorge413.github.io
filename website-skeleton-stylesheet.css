@@ -17,5 +17,10 @@ p {
       text-align: center;
       font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
       font-size: 20px;
+  }
 
+  .clicky-icons{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
   }
