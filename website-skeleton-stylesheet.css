@@ -1,23 +1,30 @@
+/* html {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  background-color: aquamarine;
+  align-items: center;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  background-color: whitesmoke;
+} */
+
 p {
     margin: 2rem 2rem 2rem 2rem;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
 
-body {
-    display: flex;
-    align-items: center;
-    height: 100%;
-    width: 100%;
-}
-
   .header {
       padding: 60px;
       text-align: center;
-      background: #9966cc;
+      background-color: #9966cc;
       color: white;
       font-size: 30px;
       font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-      display: flex;
   }
 
   .under-header-header{
@@ -30,7 +37,7 @@ body {
     display: flex;
     justify-content: space-between;
     width: 20%;
-    background: green;
+    background: aquamarine;
   }
 
   .clicky-icons{
