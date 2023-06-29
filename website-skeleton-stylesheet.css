@@ -4,7 +4,10 @@ p {
   }
 
 body {
+    display: flex;
     align-items: center;
+    height: 100%;
+    width: 100%;
 }
 
   .header {
@@ -14,6 +17,7 @@ body {
       color: white;
       font-size: 30px;
       font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      display: flex;
   }
 
   .under-header-header{
@@ -26,6 +30,7 @@ body {
     display: flex;
     justify-content: space-between;
     width: 20%;
+    background: green;
   }
 
   .clicky-icons{
