@@ -35,7 +35,9 @@ p {
 
 .clicky-icons {
   display: block;
-  background-color: white;
+  background: none;
+  padding: 0;
+  border: none;
 }
 
 .clicky-icons:hover {
