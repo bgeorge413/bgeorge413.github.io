@@ -5,38 +5,39 @@ body{
 }
 
 p {
-    margin: 2rem 2rem 2rem 2rem;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  }
+  margin: 2rem 2rem 2rem 2rem;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 
-  .header {
-      padding: 60px;
-      text-align: center;
-      background-color: #9966cc;
-      color: white;
-      font-size: 30px;
-      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  }
+.header {
+  padding: 60px;
+  text-align: center;
+  background-color: #9966cc;
+  color: white;
+  font-size: 30px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 
-  .under-header-header{
-      text-align: center;
-      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-      font-size: 20px;
-  }
+.under-header-header{
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 20px;
+}
 
-  .icon-block{
-    display: flex;
-    margin-left: auto;
-    margin-right: auto;
-    justify-content: space-between;
-    width: 40%;
-    text-align: center;
-  }
+.icon-block {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: space-between;
+  width: 40%;
+  text-align: center;
+}
 
-  .clicky-icons{
-    display: block;
-  }
+.clicky-icons {
+  display: block;
+  background-color: white;
+}
 
-  .clicky-icons:hover{
-    color: #996699;
-  }
+.clicky-icons:hover {
+  color: #996699;
+}

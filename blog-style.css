@@ -34,10 +34,13 @@ ul{
 }
 
 .blog-container{
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     justify-content: center;
     margin: 20px 0px;
     flex-wrap: wrap;
+    align-items: flex-start;
+    column-gap: 20px;
 }
 
 .blog-box{
