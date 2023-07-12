@@ -1,15 +1,30 @@
+/* ---------------- BASIC CSS THINGS ---------------- */
 body{
   margin: 0px;
   padding: 0px;
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-p {
-  margin: 2rem 2rem 2rem 2rem;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+a{
+  text-decoration: none;
+}
+
+ul{
+  list-style: none;
+}
+
+/* ---------------- TOP OF PAGE CSS THINGS ---------------- */
+
+#page-top{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-bottom: 1px solid rgba(0, 0, 0, 0);
 }
 
 .header {
+  width: 100%;
   padding: 60px;
   text-align: center;
   background-color: #9966cc;
@@ -23,6 +38,7 @@ p {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 20px;
   margin-bottom: 20px;
+  width: 60%;
 }
 
 .icon-block {
@@ -45,6 +61,8 @@ p {
 .clicky-icons:hover {
   color: #996699;
 }
+
+/* ---------------- "HERE'S WHAT I DO" CSS THINGS ---------------- */
 
 #blog{
   display: flex;
