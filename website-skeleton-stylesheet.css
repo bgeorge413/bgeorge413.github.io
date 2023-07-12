@@ -33,12 +33,32 @@ ul{
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+.header h1{
+  font-family: 'Playfair Display', serif;
+  font-weight: 800;
+  font-size: 50px;
+}
+
+.header p{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 25px;
+}
+
 .under-header-header{
   text-align: center;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 20px;
   margin-bottom: 20px;
   width: 60%;
+}
+
+.under-header-header h1{
+  font-family: 'Playfair Display', serif;
+}
+
+.under-header-header p{
+  color: #505050;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .icon-block {
