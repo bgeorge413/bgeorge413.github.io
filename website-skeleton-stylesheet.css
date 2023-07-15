@@ -53,7 +53,7 @@ ul{
 }
 
 .under-header-header h1{
-  font-family: 'Playfair Display', serif;
+  font-family: 'Playfair Display Black', serif;
 }
 
 .under-header-header p{
@@ -98,7 +98,7 @@ ul{
 }
 
 .blog-box{
-  width: 300px;
+  flex: 1;
   background-color: #ffffff;
   border: 1px solid #ececec;
   margin: 20px;
@@ -125,12 +125,14 @@ ul{
 .blog-text span{
   color: #9966cc;
   margin-bottom: 5px;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .blog-text .blog-title{
   font-size: 1.3rem;
   font-weight: 600;
   color: #272727;
+  font-family: 'Playfair Display', serif;
 }
 
 .blog-text .blog-title:hover{
